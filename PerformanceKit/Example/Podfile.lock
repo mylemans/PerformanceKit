@@ -1,0 +1,27 @@
+PODS:
+  - Nimble (7.3.4)
+  - PerformanceKit (0.1.0)
+  - Quick (1.2.0)
+
+DEPENDENCIES:
+  - Nimble (~> 7.3.1)
+  - PerformanceKit (from `../`)
+  - Quick (~> 1.2.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  PerformanceKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Nimble: 051e3d8912d40138fa5591c78594f95fb172af37
+  PerformanceKit: a007756b739cb5aef243e97b83092f8a3d84da15
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+
+PODFILE CHECKSUM: 5c4ace38fba230ce3e4e9290cb61dc80f233b3c8
+
+COCOAPODS: 1.5.3

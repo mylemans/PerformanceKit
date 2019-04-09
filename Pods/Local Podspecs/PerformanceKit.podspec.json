@@ -1,0 +1,22 @@
+{
+  "name": "PerformanceKit",
+  "version": "0.1.0",
+  "summary": "A short description of PerformanceKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mylemans/PerformanceKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mylemans": "tim@mylemans.com"
+  },
+  "source": {
+    "git": "https://github.com/mylemans/PerformanceKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "osx": "10.10"
+  },
+  "source_files": "PerformanceKit/Classes/**/*"
+}
